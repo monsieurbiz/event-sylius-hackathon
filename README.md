@@ -19,7 +19,7 @@ _Vegetarian options will be available for lunch and dinner._
 
 ## How to register?
 
-You can register on [Eventbrite](https://www.eventbrite.com/e/the-sylius-hackathon-tickets-1234567890).
+You can register on [Eventbrite](https://notfound.monsieurbiz.cloud/index.php?title=Buy+your+ticket&content=We+are+working+on+it%21).
 
 **We will ask every participant to pay a small fee of 5€** to confirm their registration since we have a limited number of seats.
 
