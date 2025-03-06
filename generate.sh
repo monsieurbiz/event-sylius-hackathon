@@ -1,6 +1,6 @@
 #!/bin/bash -l
 
-set -e -o errexit -o nounset -o xtrace
+set -o errexit -o nounset -o xtrace
 
 # Load .env.local if it exists
 if [ -f .env.local ]; then
