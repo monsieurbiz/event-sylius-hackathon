@@ -30,7 +30,8 @@ It's a very simple and very flexible schedule!
 - 8:30 am: Welcome coffee (french croissants included!)
 - 9:00 am: Introduction (how does it work, what can you do, etc.)
 - 9:30 am: Start hacking
-- 12:30 pm 'ish: Lunch
+- 12:30 pm 'ish: Lunchtime
+- 1:00 pm: Demo by Clever Cloud, our platinum sponsor
 - 1:30 pm: Back to hacking
 - 6:30 pm: Demos
 - 8:00 pm: 🍕Pizzas
@@ -45,6 +46,13 @@ It's a very simple and very flexible schedule!
 ## Our sponsors
 
 Without them, it would not be possible to organize this event!
+
+### Platinum sponsors
+
+Clever Cloud is our platinum sponsor.  
+They provide a PaaS platform that allows you to deploy, run, and scale your Sylius e-commerce!
+
+They will perform a demo during lunchtime!
 
 ### Gold sponsors
 
