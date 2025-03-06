@@ -19,9 +19,9 @@ _Vegetarian options will be available for lunch and dinner._
 
 ## How to register?
 
-You can register on [Eventbrite](https://notfound.monsieurbiz.cloud/index.php?title=Buy+your+ticket&content=We+are+working+on+it%21).
+**We ask every participant to pay a small fee of 5€** to confirm their registration since we have a limited number of seats.
 
-**We will ask every participant to pay a small fee of 5€** to confirm their registration since we have a limited number of seats.
+You can [buy your ticket on our shop](https://notfound.monsieurbiz.cloud/index.php?title=Buy+your+ticket&content=We+are+working+on+it%21).
 
 ## Planning of the day
 
@@ -39,7 +39,7 @@ It's a very simple and very flexible schedule!
 ## What to bring?
 
 - Your laptop, obviously, and don't forget your charger!
-- A good mood and a lot of energy!
+- A good mood and a lot of energy! You'll have plenty of coffee to help you with that.
 - A project idea you want to work on, or just come and help others!
 
 ## Our sponsors
@@ -48,17 +48,11 @@ Without them, it would not be possible to organize this event!
 
 ### Gold sponsors
 
-- [Sylius](https://sylius.com)
-- Clever Cloud
-- Mollie
-- Payplug
+_**You want to become a Silver sponsor? Please fill the form below.**_
  
 ### Silver sponsors
 
-- Datasolution
-- [Emagma](https://emagma.fr)
-- [Monsieur Biz](https://monsieurbiz.com)
-- Theodo
+_**You want to become a Silver sponsor? Please fill the form below.**_
 
 ## Contact
 
