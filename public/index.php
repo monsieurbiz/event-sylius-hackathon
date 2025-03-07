@@ -8,7 +8,7 @@ require __DIR__.'/../vendor/autoload.php';
 
 $body = file_get_contents('../README.html');
 $body = strtr($body, [
-    '{{WEEZEVENT_MODULE}}' => $_ENV['WEEZEVENT_MODULE'] ?? '',
+    '{{WEEZEVENT_MODULE}}' => $_SERVER['WEEZEVENT_MODULE'] ?? '',
 ]);
 ?>
 <!DOCTYPE html>
