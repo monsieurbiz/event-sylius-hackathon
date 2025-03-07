@@ -9,6 +9,8 @@ Our Hackathon will be nearby the [Symfony Live venue](https://live.symfony.com/2
 
 It will take place from 8:30 am to 11pm.
 
+The hackathon venue is at a walking distance, about 13 minutes, from the Cité Universitaire de Paris.
+
 ## Whom is it for?
 
 If you are a PHP developer, a Symfony developer, a Sylius developer, or just a developer who wants to learn more about Sylius, this event is for you!
@@ -19,9 +21,9 @@ _Vegetarian options will be available for lunch and dinner._
 
 ## How to register?
 
-**We ask every participant to pay a small fee of 5€** to confirm their registration since we have a limited number of seats.
+**We ask every participant to pay a small fee of 10€** to confirm their registration since we have a limited number of seats.
 
-You can [buy your ticket on our shop](https://notfound.monsieurbiz.cloud/index.php?title=Buy+your+ticket&content=We+are+working+on+it%21).
+{{WEEZEVENT_MODULE}}
 
 ## Planning of the day
 

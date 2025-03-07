@@ -1,3 +1,16 @@
+<?php
+
+use Symfony\Component\Dotenv\Dotenv;
+
+require __DIR__.'/../vendor/autoload.php';
+
+(new Dotenv())->loadEnv(__DIR__.'/../.env');
+
+$body = file_get_contents('../README.html');
+$body = strtr($body, [
+    '{{WEEZEVENT_MODULE}}' => $_ENV['WEEZEVENT_MODULE'] ?? '',
+]);
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,8 +37,10 @@
 </head>
 <body>
     <div class="markdown-body">
-        <?php include '../README.html'; ?>
+        <?php echo $body; ?>
         <script type="text/javascript" src="//mautic.monsieurbiz.com/form/generate.js?id=2"></script>
     </div>
+
+    <script type="text/javascript" src="https://widget.weezevent.com/weez.js"  async defer></script>
 </body>
 </html>
