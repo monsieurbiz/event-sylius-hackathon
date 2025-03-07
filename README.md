@@ -33,25 +33,26 @@ _Vegetarian options will be available for lunch and dinner._
 
 It's a very simple and very flexible schedule!
 
-- 8:30 am: Welcome coffee (french croissants included!)
-- 9:00 am: Introduction (how does it work, what can you do, etc.)
-- 9:30 am: Start hacking
-- 12:30 pm 'ish: Lunchtime
-- 1:00 pm: Demo by Clever Cloud, our platinum sponsor
-- 1:30 pm: Back to hacking
-- 6:30 pm: Demos
-- 8:00 pm: 🍕Pizzas
-- 10:30 pm: End of the day (we will need to leave the venue before 11:15pm)
+- 8:30 am: ☕️🥐Welcome coffee (french croissants included!)
+- 9:00 am: 🗣️Introduction (how does it work, what can you do, etc.)
+- 9:30 am: 💻Start hacking
+- 12:30 pm 'ish: 🍴Lunchtime
+- 1:00 pm: 🧑‍💻Demo by Clever Cloud, our platinum sponsor
+- 1:30 pm: 💻Back to hacking
+- 6:30 pm: 😎Demos of the day to show what you've accomplished
+- 8:00 pm: 🍕Pizzas + 🍺beers (and other non-alcoholic drinks)
+- 11:30 pm: 👋💚End of the day (we need to leave the venue before midnight)
 
 ## What to bring?
 
 - Your laptop, obviously, and don't forget your charger!
+- Your headphones if you want to listen to music while coding.
 - A good mood and a lot of energy! You'll have plenty of coffee to help you with that.
 - A project idea you want to work on, or just come and help others!
 
 ## Our sponsors
 
-Without them, it would not be possible to organize this event!
+Without them, it would not be possible to host this event!
 
 ### Platinum sponsors
 
@@ -71,3 +72,13 @@ _**You want to become a Silver sponsor? Please fill the form below.**_
 ## Contact
 
 To contact us, you can fill this form:
+
+{{CONTACT_FORM}}
+
+---
+<details>
+<summary>Legals and other details</summary>
+This Hackathon is organized by <a href="https://monsieurbiz.com">Monsieur Biz</a> with the participation of the event's sponsors.<br>
+Our <a href="https://monsieurbiz.com/fr/legals" target="_blank" rel="noopener noreferer nofollow">legals terms are available online</a>.<br>  
+If you need to reach us by mail, you can send it to: sylius-hackathon [at] monsieurbiz [dot] com
+</details>

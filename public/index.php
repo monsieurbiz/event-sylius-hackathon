@@ -9,13 +9,14 @@ require __DIR__.'/../vendor/autoload.php';
 $body = file_get_contents('../README.html');
 $body = strtr($body, [
     '{{WEEZEVENT_MODULE}}' => $_SERVER['WEEZEVENT_MODULE'] ?? '',
+    '{{CONTACT_FORM}}' => $_SERVER['CONTACT_FORM'] ?? '',
 ]);
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Sylius Hackathon</title>
-    <meta name="description" content="" />
+    <meta name="description" content="Join us for the first ever Sylius Hackathon in Paris!" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="github-markdown.css">
@@ -38,9 +39,7 @@ $body = strtr($body, [
 <body>
     <div class="markdown-body">
         <?php echo $body; ?>
-        <script type="text/javascript" src="//mautic.monsieurbiz.com/form/generate.js?id=2"></script>
     </div>
-
     <script type="text/javascript" src="https://widget.weezevent.com/weez.js"  async defer></script>
 </body>
 </html>
