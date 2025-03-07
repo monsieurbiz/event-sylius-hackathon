@@ -1,7 +1,11 @@
 # The Sylius Hackathon
 
-> The Sylius Hackathon is happening in Paris, France on 29th of March 2025.  
+> The Sylius Hackathon is happening in Paris, France on 29th of March 2025!  
 > The day after the Symfony Live conference.
+
+This README explains how to participate in the event, how to sponsor it, and how to contact the organizers.
+
+Feel free to share it with your friends and colleagues!
 
 ## Where & when is it happening?
 
