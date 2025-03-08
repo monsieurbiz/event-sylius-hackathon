@@ -10,6 +10,10 @@ $body = file_get_contents('../INDEX.html');
 $body = strtr($body, [
     '{{WEEZEVENT_MODULE}}' => $_SERVER['WEEZEVENT_MODULE'] ?? '',
     '{{CONTACT_FORM}}' => $_SERVER['CONTACT_FORM'] ?? '',
+
+    // These 2 vars replacement are here because Github transforms to text the tel: schema.
+    '{{PHONE_NUMBER_URL}}' => $_SERVER['PHONE_NUMBER_URL'] ?? '',
+    '{{PHONE_NUMBER_TEXT}}' => $_SERVER['PHONE_NUMBER_TEXT'] ?? '',
 ]);
 ?>
 <!DOCTYPE html>
