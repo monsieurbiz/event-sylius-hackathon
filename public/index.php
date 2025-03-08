@@ -6,7 +6,7 @@ require __DIR__.'/../vendor/autoload.php';
 
 (new Dotenv())->loadEnv(__DIR__.'/../.env');
 
-$body = file_get_contents('../README.html');
+$body = file_get_contents('../INDEX.html');
 $body = strtr($body, [
     '{{WEEZEVENT_MODULE}}' => $_SERVER['WEEZEVENT_MODULE'] ?? '',
     '{{CONTACT_FORM}}' => $_SERVER['CONTACT_FORM'] ?? '',

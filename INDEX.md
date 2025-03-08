@@ -15,6 +15,8 @@ It will take place from 8:30 am to 11pm.
 
 The hackathon venue is at a walking distance, about 13 minutes, from the Cité Universitaire de Paris.
 
+![](map.png)
+
 ## Whom is it for?
 
 If you are a PHP developer, a Symfony developer, a Sylius developer, or just a developer who wants to learn more about Sylius, this event is for you!
@@ -54,24 +56,26 @@ It's a very simple and very flexible schedule!
 
 Without them, it would not be possible to host this event!
 
-### Platinum sponsors
+### Gold sponsor
 
-Clever Cloud is our platinum sponsor.  
+<img width="200" src="https://cdn.clever-cloud.com/uploads/2023/03/logoonwhite.svg" alt="Clever Cloud logo" title="Clever Cloud, from Code to Product">
+
+Clever Cloud is our gold sponsor.  
 They provide a PaaS platform that allows you to deploy, run, and scale your Sylius e-commerce!
 
-They will perform a demo during lunchtime!
+They will perform a demo during lunchtime! Be prepared!
 
-### Gold sponsors
-
-_**You want to become a Silver sponsor? Please fill the form below.**_
- 
 ### Silver sponsors
 
 _**You want to become a Silver sponsor? Please fill the form below.**_
+ 
+### Bronze sponsors
+
+_**You want to become a Bronze sponsor? Please fill the form below.**_
 
 ## Contact
 
-To contact us, you can fill this form:
+To contact us, the easier way is to fill this form:
 
 {{CONTACT_FORM}}
 
