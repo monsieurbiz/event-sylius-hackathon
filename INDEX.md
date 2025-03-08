@@ -7,6 +7,8 @@ This README explains how to participate in the event, how to sponsor it, and how
 
 Feel free to share it with your friends and colleagues!
 
+Oh, and by the way, [this page is on Github](https://github.com/monsieurbiz/event-sylius-hackathon).
+
 ## Where & when is it happening?
 
 Our Hackathon will be nearby the [Symfony Live venue](https://live.symfony.com/2025-paris/venue), at [the Morning Montsouris, a coworking space located at 1 Imp. Reille, 75014 Paris](https://maps.app.goo.gl/6ZPDGpqjrbkLaXuE8).
@@ -15,7 +17,7 @@ It will take place from 8:30 am to 11pm.
 
 The hackathon venue is at a walking distance, about 13 minutes, from the Cité Universitaire de Paris.
 
-![](map.png)
+![Map with walking path from Symfony Live to the Hackathon](https://raw.githubusercontent.com/monsieurbiz/event-sylius-hackathon/master/public/map.png)
 
 ## Whom is it for?
 
