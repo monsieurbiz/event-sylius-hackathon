@@ -17,7 +17,7 @@ It will take place from 8:30am to 11:30pm.
 
 The hackathon venue is at a walking distance, about 13 minutes, from the Cité Universitaire de Paris.
 
-![Map with walking path from Symfony Live to the Hackathon](https://raw.githubusercontent.com/monsieurbiz/event-sylius-hackathon/master/public/map.png)
+[![Map with walking path from Symfony Live to the Hackathon](https://raw.githubusercontent.com/monsieurbiz/event-sylius-hackathon/master/public/map.png)](https://maps.app.goo.gl/YNkrZNbFKDFH7FZj8)
 
 ## To whom is it for?
 
@@ -27,7 +27,7 @@ Everybody developer is welcome, from beginners to experts. You can come with a p
 
 Recruiters (and attempts of recruitment)  are not permitted at the event since it's a day of code and fun, not a job fair.
 
-📣By participating the event you agree to the Code of Conduct.
+**📣 By participating the event you agree to the Code of Conduct.**
 
 <details><summary>Open to read the Code of Conduct</summary>
 
@@ -69,11 +69,11 @@ _Vegetarian options will be available for lunch and dinner._
 
 ## How to register?
 
-**We ask every participant to pay a small fee of 10€** to confirm their registration since we have a limited number of seats.
+**We ask every participant to pay a small fee of 10€** to confirm their registration because we have a limited number of seats.
 
 🍕During the hackathon, food and drinks will be provided, so you don't have to worry about that.
 
-{{WEEZEVENT_MODULE}}
+{{REGISTRATION_HTML}}
 
 ## Our sponsors
 

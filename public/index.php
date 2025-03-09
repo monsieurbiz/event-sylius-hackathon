@@ -8,13 +8,15 @@ require __DIR__.'/../vendor/autoload.php';
 
 $body = file_get_contents('../INDEX.html');
 $body = strtr($body, [
-    '{{WEEZEVENT_MODULE}}' => $_SERVER['WEEZEVENT_MODULE'] ?? '',
+    '{{REGISTRATION_HTML}}' => $_SERVER['REGISTRATION_HTML'] ?? '',
     '{{CONTACT_FORM}}' => $_SERVER['CONTACT_FORM'] ?? '',
 
     // These 2 vars replacement are here because Github transforms to text the tel: schema.
     '{{PHONE_NUMBER_URL}}' => $_SERVER['PHONE_NUMBER_URL'] ?? '',
     '{{PHONE_NUMBER_TEXT}}' => $_SERVER['PHONE_NUMBER_TEXT'] ?? '',
 ]);
+
+$footer = $_SERVER['FOOTER_HTML'] ?? '';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -44,6 +46,6 @@ $body = strtr($body, [
     <div class="markdown-body">
         <?php echo $body; ?>
     </div>
-    <script type="text/javascript" src="https://widget.weezevent.com/weez.js"  async defer></script>
+    <?php echo $footer; ?>
 </body>
 </html>
