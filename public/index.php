@@ -25,6 +25,7 @@ $footer = $_SERVER['FOOTER_HTML'] ?? '';
     <meta name="description" content="Join us for the first ever Sylius Hackathon in Paris!" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="https://raw.githubusercontent.com/monsieurbiz/event-sylius-hackathon/master/public/main.jpg" />
     <link rel="stylesheet" href="github-markdown.css">
     <style>
         .markdown-body {
