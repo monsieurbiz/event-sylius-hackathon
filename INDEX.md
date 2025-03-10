@@ -92,6 +92,11 @@ They will perform a demo during lunchtime! Be prepared!
 
 ### Silver sponsors
 
+<img src="https://monsieurbiz.com/media/gallery/images/logos/logo-sylius.png" width="200" alt="Sylius logo" title="Sylius">
+
+Sylius, the e-commerce framework, is a Silver sponsor.  
+They probably don't need further introduction!
+
 <img src="https://monsieurbiz.com/logo.png" width="200" alt="Monsieur Biz logo" title="Monsieur Biz">
 
 Monsieur Biz is organizing this event as well as being a Silver sponsor.  
