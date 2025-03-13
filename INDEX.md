@@ -102,6 +102,10 @@ They probably don't need further introduction!
 Monsieur Biz is organizing this event as well as being a Silver sponsor.  
 They are a web agency specialized in e-commerce (Sylius only) and Webmarketing.
 
+<img src="https://www.emagma.fr/theme/emagma/assets/images/logo.svg" width="200" title="Emagma" alt="Emagma logo">
+
+Emagma is a web agency specialized in developing custom digital solutions, including tailored e-commerce websites with Sylius.
+
 _**You want to become a Silver sponsor? Please fill the form below.**_
  
 ### Bronze sponsors
