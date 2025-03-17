@@ -9,6 +9,8 @@ This page explains how to participate in the event, how to sponsor it, and how t
 
 _Oh, and by the way, [this page is on Github](https://github.com/monsieurbiz/event-sylius-hackathon), it's a hackathon, isn't it?_
 
+**🎉 Be aware! Breakfast, Lunch and Dinner are included! 🤩**
+
 ## Where & when is it happening?
 
 Our Hackathon will be nearby the Symfony Live venue, at the Morning Montsouris, a coworking space located at [1 impasse Reille, 75014 Paris](https://maps.app.goo.gl/6ZPDGpqjrbkLaXuE8).
@@ -71,7 +73,7 @@ _Vegetarian options will be available for lunch and dinner._
 
 **We ask every participant to pay a small fee of 10€** to confirm their registration because we have a limited number of seats.
 
-🍕During the hackathon, food and drinks will be provided, so you don't have to worry about that.
+🍕 During the hackathon, food and drinks will be provided, so you don't have to worry about that! 🤩
 
 {{REGISTRATION_HTML}}
 
