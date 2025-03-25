@@ -6,7 +6,21 @@ require __DIR__.'/../vendor/autoload.php';
 
 (new Dotenv())->loadEnv(__DIR__.'/../.env');
 
-$body = file_get_contents('../INDEX.html');
+$hl = $_GET['hl'] ?? 'en';
+switch ($hl) {
+    case 'fr':
+        $description = 'Rejoins-nous pour le tout premier Hackathon Sylius Hackathon à Paris!';
+        $file = '../INDEX_FR.html';
+        break;
+    case 'en':
+    default:
+        $description = 'Join us for the first ever Sylius Hackathon in Paris!';
+        $hl = 'en';
+        $file = '../INDEX.html';
+        break;
+}
+
+$body = file_get_contents($file);
 $body = strtr($body, [
     '{{REGISTRATION_HTML}}' => $_SERVER['REGISTRATION_HTML'] ?? '',
     '{{CONTACT_FORM}}' => $_SERVER['CONTACT_FORM'] ?? '',
@@ -19,10 +33,10 @@ $body = strtr($body, [
 $footer = $_SERVER['FOOTER_HTML'] ?? '';
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo $hl; ?>">
 <head>
     <title>Sylius Hackathon</title>
-    <meta name="description" content="Join us for the first ever Sylius Hackathon in Paris!" />
+    <meta name="description" content="<?php echo $description; ?>" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:image" content="https://raw.githubusercontent.com/monsieurbiz/event-sylius-hackathon/master/public/main.jpg" />

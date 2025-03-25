@@ -1,3 +1,5 @@
+[🇫🇷 Voir la version en Français](/?hl=fr)
+
 # The Sylius Hackathon
 
 > The Sylius Hackathon is finally happening in Paris, France **on 29th March 2025**!  

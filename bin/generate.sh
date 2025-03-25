@@ -12,7 +12,10 @@ if [ -z "${GITHUB_TOKEN:-}" ]; then
   exit 1
 fi
 
-CONTENT=$(jq -Rs . < INDEX.md)
+mdFile=$1
+outputFile=$2
+
+CONTENT=$(jq -Rs . < $mdFile)
 JSON_OUTPUT="{\"text\": $CONTENT}"
 
 curl -L \
@@ -22,4 +25,4 @@ curl -L \
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/markdown \
   -d "$JSON_OUTPUT" \
-  -o - > INDEX.html
+  -o - > $outputFile
