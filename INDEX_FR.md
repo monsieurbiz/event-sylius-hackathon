@@ -118,7 +118,7 @@ _**Vous voulez devenir un sponsor Bronze ? Veuillez remplir le formulaire ci-des
 
 ### Sponsor Communautaire
 
-Un grand merci à Afup pour leur soutien ! Le groupe d'utilisateurs PHP français.
+Un grand merci à l'afup, l'Association Française des Utilisateurs de PHP, pour leur soutien !
 
 <img src="https://identity.afup.org/assets/local_user_groups/paris/afup-paris_icon-and-text_colors-and-transparent_for-bright-background.png" width="300" title="Afup Paris" alt="Logo Afup Paris">
 
