@@ -114,6 +114,12 @@ _**You want to become a Silver sponsor? Please fill the form below.**_
 
 _**You want to become a Bronze sponsor? Please fill the form below.**_
 
+### Community sponsor
+
+A special thank you to Afup! The French PHP User Group.
+
+<img src="https://identity.afup.org/assets/local_user_groups/paris/afup-paris_icon-and-text_colors-and-transparent_for-bright-background.png" width="300" title="Afup Paris" alt="Afup Paris logo logo">
+
 ## Contact
 
 To contact us, the easier way is to fill this form:
