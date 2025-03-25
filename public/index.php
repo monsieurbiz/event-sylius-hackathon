@@ -22,8 +22,8 @@ switch ($hl) {
 
 $body = file_get_contents($file);
 $body = strtr($body, [
-    '{{REGISTRATION_HTML}}' => $_SERVER['REGISTRATION_HTML'] ?? '',
-    '{{CONTACT_FORM}}' => $_SERVER['CONTACT_FORM'] ?? '',
+    '{{REGISTRATION_HTML}}' => $_SERVER['REGISTRATION_HTML' . ($hl === 'fr' ? '_FR' : '')] ?? '',
+    '{{CONTACT_FORM}}' => $_SERVER['CONTACT_FORM' . ($hl === 'fr' ? '_FR' : '')] ?? '',
 
     // These 2 vars replacement are here because Github transforms to text the tel: schema.
     '{{PHONE_NUMBER_URL}}' => $_SERVER['PHONE_NUMBER_URL'] ?? '',
