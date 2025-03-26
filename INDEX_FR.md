@@ -53,8 +53,8 @@ En cas de problème, veuillez contacter les organisateurs de l'événement en ut
 C'est un programme très simple et très flexible !
 
 - 8h30 : ☕️🥐Café d'accueil (croissants français inclus !)
-- 9h00 : 🗣️Introduction (comment ça marche, que pouvez-vous faire, etc.)
-- 9h30 : 💻Début du hacking
+- 9h30 : 🗣️Introduction (comment ça marche, que pouvez-vous faire, etc.)
+- 10h00 : 💻Début du hacking
 - 12h30 environ : 🍴Déjeuner
 - 13h00 : 🧑‍💻Démo par Clever Cloud, notre sponsor platine
 - 13h30 : 💻Retour au hacking
