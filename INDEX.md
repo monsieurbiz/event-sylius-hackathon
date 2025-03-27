@@ -113,6 +113,9 @@ Emagma is a web agency specialized in developing custom digital solutions, inclu
 _**You want to become a Silver sponsor? Please fill the form below.**_
  
 ### Bronze sponsors
+<img src="https://www.fast-mage.com/images/fast-mage-v2_black_med.png" width="200" title="Fast-Mage" alt="Fast-Mage logo">
+
+Rock-solid Sylius, Magento & Prestashop hosting – with 14+ years of experience and developer-focused support.
 
 _**You want to become a Bronze sponsor? Please fill the form below.**_
 
