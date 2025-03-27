@@ -114,6 +114,10 @@ _**Vous voulez devenir un sponsor Argent ? Veuillez remplir le formulaire ci-des
 
 ### Sponsors Bronze
 
+<img src="https://www.fast-mage.com/images/fast-mage-v2_black_med.png" width="200" title="Fast-Mage" alt="Fast-Mage logo">
+
+Hébergement Sylius, Magento & Prestashop fiable – avec plus de 14 ans d'expérience et un support orienté développeurs
+
 _**Vous voulez devenir un sponsor Bronze ? Veuillez remplir le formulaire ci-dessous.**_
 
 ### Sponsor Communautaire
